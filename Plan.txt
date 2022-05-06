@@ -1,0 +1,6 @@
+input1: Code 
+input2: Key
+
+Decodes code with key
+
+Output:password +/- 
